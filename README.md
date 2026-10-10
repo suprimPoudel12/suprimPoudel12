@@ -106,7 +106,7 @@ A Flask-based habit-tracking project exploring Python web development.
 <div align="center">
 
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprimpoudel12&layout=compact&langs_count=1&hide=Kotlin,Python,HTML,CSS,C,C%2B%2B,PHP,TypeScript,Shell,Java,Swift,Ruby,Go,Rust,Dart,SCSS,Less,Vue,Svelte,Astro,Makefile,PowerShell,Perl,R,TeX,Assembly,Objective-C,Matlab,Julia,Lua,Elixir,Erlang,Scala,Haskell,OCaml,Fortran,Groovy,Solidity,Handlebars,Blade,Dockerfile&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="Most-used languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprimpoudel12&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="Most-used languages" />
 
 </div>
 
