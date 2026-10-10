@@ -1,137 +1,148 @@
+
 <div align="center">
 
-# Hi 👋, I'm Suprim
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=520&lines=initializing+suprim.dev...;software+engineering+student;learning+%E2%86%92+building+%E2%86%92+improving" alt="Terminal introduction" />
 
-### 🚀 Software Engineering Student | Full Stack Developer | AI Enthusiast
+# `suprimpoudel12`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=CS+%2F+Engineering+Student;Full+Stack+Developer;NEPSE+Investor;Building+Real+Projects;Always+Learning+New+Things"/>
+**Software Engineering Student · Developer · AI Explorer**
 
-<br><br>
+Building things, understanding how they work, and improving through practice.
 
-<img src="https://komarev.com/ghpvc/?username=supr3m333&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<br/>
 
-<img src="https://img.shields.io/github/followers/supr3m333?label=Followers&style=for-the-badge"/>
+<a href="https://suprim1.com.np">Portfolio</a> ·
+<a href="https://github.com/suprimpoudel12">GitHub</a> ·
+<a href="https://instagram.com/supreme.12z">Instagram</a>
 
-<img src="https://img.shields.io/github/stars/supr3m333?affiliations=OWNER&style=for-the-badge"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=suprimpoudel12&style=flat-square&color=238636&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-# 💫 About Me
+### `~/about`
 
-```yaml
-Name: Suprim
-Location: Kathmandu, Nepal 🇳🇵
-Education: BE CS/Engineering, NCIT College (Pokhara University)
-Interests:
-  - App Development
-  - Web Projects
-  - NEPSE Stock Investing
-  - Creative / Aesthetic Web Design
-Current Focus:
-  - Full Stack Development
-  - Applied AI Tools
-  - Building Real Projects
+```bash
+suprim@github:~$ whoami
+
+Software Engineering student at NCIT College,
+studying under Pokhara University in Nepal.
+
+suprim@github:~$ interests
+
+Web development
+Python and applied AI
+Software engineering and practical projects
+
+suprim@github:~$ philosophy
+
+Learn the fundamentals.
+Build to understand.
+Improve through iteration.
 ```
 
----
+### `~/stack`
 
-# 🌐 Connect With Me
+**Languages**
 
-<p align="left">
-
-<a href="https://suprim1.com.np">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-<a href="https://github.com/supr3m333">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://instagram.com/supreme.12z">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,c&theme=dark" alt="Python, JavaScript, C++, C" />
 </p>
 
----
+**Web development**
 
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,c,flask,firebase,mysql,git,github,vscode,androidstudio,figma"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask&theme=dark" alt="HTML, CSS, React, Node.js, Flask" />
 </p>
 
----
+**Tools and platforms**
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🤖 DevPath AI | AI-powered developer learning app — on Google Play |
-| ✅ Taskr | Vanilla JS task manager |
-| 🌴 GTA Vice City Portfolio | Interactive cheat-code-themed portfolio — live at suprim1.com.np |
-| 📊 Habit Tracker | Flask-based habit tracking app |
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=supr3m333&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supr3m333&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,mysql,figma,androidstudio&theme=dark" alt="Git, GitHub, VS Code, Firebase, MySQL, Figma, Android Studio" />
 </p>
 
-<p align="center">
+### `~/projects`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=supr3m333&theme=tokyonight&hide_border=true"/>
+Selected projects and experiments across web development, applications, and Python.
 
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**01 / DevPath AI**
 
-# 👾 Contribution Graph — Pac-Man Mode
+An AI-powered developer learning app focused on helping learners navigate their development journey.
 
-<p align="center">
+</td>
+<td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/supr3m333/supr3m333/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only"/>
-<img src="https://raw.githubusercontent.com/supr3m333/supr3m333/output/pacman-contribution-graph.svg#gh-light-mode-only"/>
+**02 / Taskr**
 
-</p>
+A task manager built with vanilla JavaScript to practise core web development concepts.
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+**03 / GTA Vice City Portfolio**
 
-# 🎯 Currently Learning
+A portfolio inspired by the visual identity of GTA Vice City.
 
-```text
-█████████░░░░░ Applied AI / LLM tooling
-████████░░░░░░ Advanced C++ (OOP, STL)
-███████░░░░░░░ Data Structures & Algorithms
-██████░░░░░░░░ System-level Programming
-```
+[Visit live site ↗](https://suprim1.com.np)
 
----
+</td>
+<td width="50%" valign="top">
 
-# 📬 Contact
+**04 / Habit Tracker**
 
-<p align="left">
+A Flask-based habit-tracking project exploring Python web development.
 
-<a href="https://suprim1.com.np">Portfolio</a> ·
-<a href="https://github.com/supr3m333">GitHub</a> ·
-<a href="https://instagram.com/supreme.12z">Instagram</a>
+</td>
+</tr>
+</table>
 
-</p>
+**[→ Browse all repositories](https://github.com/suprimpoudel12?tab=repositories)**
+
+### `~/github`
 
 <div align="center">
 
-## Thanks for visiting ❤️
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=suprimpoudel12&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
 
-### ⭐ Don't forget to star my repositories if you find them useful!
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprimpoudel12&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="Most-used languages" />
+
+</div>
+
+### `~/contributions`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/suprimpoudel12/suprimpoudel12/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%" />
+
+</div>
+
+### `~/now`
+
+- Deepening my JavaScript and full-stack development skills.
+- Practising programming fundamentals and problem-solving.
+- Exploring Python and applied AI.
+- Turning learning into practical projects.
+
+### `~/connect`
+
+```text
+Website   →  https://suprim1.com.np
+GitHub    →  https://github.com/suprimpoudel12
+Instagram →  https://instagram.com/supreme.12z
+Location  →  Nepal
+```
+
+<div align="center">
+
+<sub>Learn. Build. Iterate.</sub>
 
 </div>
