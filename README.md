@@ -44,25 +44,27 @@ Build to understand.
 Improve through iteration.
 ```
 
+
 ### `~/stack`
 
-**Languages**
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,c&theme=dark" alt="Python, JavaScript, C++, C" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,python,c,cpp,php&theme=dark" alt="HTML, CSS, JavaScript, React, MySQL, Python, C, C++, PHP" />
 
-**Web development**
+<br/><br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask&theme=dark" alt="HTML, CSS, React, Node.js, Flask" />
-</p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
 
-**Tools and platforms**
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,mysql,figma,androidstudio&theme=dark" alt="Git, GitHub, VS Code, Firebase, MySQL, Figma, Android Studio" />
-</p>
 
 ### `~/projects`
 
