@@ -105,7 +105,9 @@ A Flask-based habit-tracking project exploring Python web development.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=suprimpoudel12&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,python,c,cpp,php&theme=dark" alt="HTML, CSS, JavaScript, React, MySQL, Python, C, C++, PHP" />
+
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprimpoudel12&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="Most-used languages" />
 
