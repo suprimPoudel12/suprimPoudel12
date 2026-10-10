@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=520&lines=initializing+suprim.dev...;software+engineering+student;learning+%E2%86%92+building+%E2%86%92+improving" alt="Terminal introduction" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,python,c,cpp,php&theme=dark" alt="HTML, CSS, JavaScript, React, MySQL, Python, C, C++, PHP" />
+
 
 # `suprimpoudel12`
 
